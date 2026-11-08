@@ -205,12 +205,5 @@ command-line arguments depend on the project code.
 -   **Project guide:** Dr. Yashodhara Haribhakta
 -   **Academic year:** 2026--2027
 
-## Acknowledgement
 
-This project uses the HaluEval benchmark for academic work. Cite the
-original HaluEval publication and follow the dataset's terms of use.
 
-## Author
-
-Add your name, GitHub profile, and contact information here if you want
-them displayed publicly.
